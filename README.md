@@ -1,4 +1,4 @@
-# Hi, I'm <Deyvison>! 👋
+# Hi, I'm Deyvison! 👋
 
 I am a passionate Frontend Web Developer, driven by a curiosity for technology. My journey involves delving into the world of web development and exploring new ideas.
 
