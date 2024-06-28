@@ -1,6 +1,6 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm <Deyvison>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Frontend Web Developer, driven by a curiosity for technology. My journey involves delving into the world of web development and exploring new ideas.
 
 ![DeyvisonIO's Stats](https://github-readme-stats.vercel.app/api?username=DeyvisonIO&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -23,7 +23,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/deyvison-i-93abb8143/)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/deyvison-iury/)
 
 
 
